@@ -1,0 +1,57 @@
+,*
+
+.html{
+    margin: 0;
+    padding: 0;
+}
+
+.container{
+    height: 100vh;
+    width: 100vw;
+    text-align: center;
+    background-color: rgb(226, 201, 201);
+    font-size: 30px;
+}
+
+.love{
+    padding-top: 150px;
+}
+
+h2{font-size: 80px;}
+.love a{text-decoration: none;
+    background: #eee;
+    padding: 5px;
+    margin: 5px 10 px;
+    border: 3px solid #ddd;
+    border-radius: 20px;
+    justify-content:center;
+    text-align: center;
+}
+#GA{color: red;}
+#SAYANGGG {color: rgb(39, 66, 0);}
+
+.img-content{
+    width: 30%;
+    height: 30%;
+    justify-content: center;
+    border-radius: 30px;
+}
+
+.sad-content{
+    width: 30%;
+    height: 30%;
+    justify-content: center;
+    border-radius: 30px;
+}
+
+.a-YES {
+    text-align: center;
+    font-size: 50px;
+    justify-content: center;
+    display:flex;
+}
+
+.a-NO {
+    text-align:center;
+    font-size: 50px;
+}
